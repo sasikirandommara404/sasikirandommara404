@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasikirandommara404&label=Profile%20views&color=0e75b6&style=flat" alt="sasikirandommara404" /> </p>
 
 
-- 💬 Ask me about **Python, MySQL, HTML5, CSS3, Django, REST API, Node.Js, Express.js, Docker, Git**
+- 💬 Ask me about **Python, MySQL, HTML5, CSS3, Django, REST API, Node.Js, Express.js, Docker, Git, React.Js, PostgreSQL, ORM, ODM**
 
 - 📫 How to reach me **sasikirandommara404@gmail.com**
 
