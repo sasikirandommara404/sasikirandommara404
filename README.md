@@ -1,14 +1,13 @@
 
 ![logo](https://github.com/sasikirandommara404/sasikirandommara404/blob/main/Neon%20Green%20Gaming%20Channel%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sasikiran Dommara</h1>
-<h3 align="center">A passionate Python developer with a love for coding and problem-solving. 🚀</h3>
+<h3 align="center">Full Stack Developer with a love for coding and problem-solving. 🚀</h3>
 <img align="right" alt="coding" width="350" height="190"src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasikirandommara404&label=Profile%20views&color=0e75b6&style=flat" alt="sasikirandommara404" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Python, MySQL, HTML5, CSS3, Django**
+- 💬 Ask me about **Python, MySQL, HTML5, CSS3, Django, REST API, Node.Js, Express.js, Docker, Git**
 
 - 📫 How to reach me **sasikirandommara404@gmail.com**
 
